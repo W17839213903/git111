@@ -1,0 +1,174 @@
+1543482330717	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.VxM4w95XKMre"
+1543482337439	Marionette	INFO	Listening on port 61104
+1543482337474	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 12584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/buildconsole.error: "stylesheets actor: fetch failed for https://qzonestyle.gtimg.cn/qzone_v6/proj_qzonelogin/qzonelogin.css?20130306, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://qzonestyle.gtimg.cn/qzone_v6/proj_qzonelogin/qzonelogin.css?20130306. Code 2153390067."
+console.error: "onResponse@resource://devtools/shared/base-loader.js -> resource://devtools/shared/DevToolsUtils.js:557:23\nonStopRequest@resource://gre/modules/NetUtil.jsm:126:17\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://qzonestyle.gtimg.cn/qzone_v6/proj_qzonelogin/qzonelogin.css?20130306. Code 2153390067."
+console.error: "Protocol error (unknownError): Failed to fetch https://qzonestyle.gtimg.cn/qzone_v6/proj_qzonelogin/qzonelogin.css?20130306. Code 2153390067."
+console.error: "Protocol error (unknownError): Failed to fetch https://qzonestyle.gtimg.cn/qzone_v6/proj_qzonelogin/qzonelogin.css?20130306. Code 2153390067."
+console.error: "stylesheets actor: fetch failed for https://qzonestyle.gtimg.cn/qzone_v6/proj_qzonelogin/qzonelogin.css?20130306, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://qzonestyle.gtimg.cn/qzone_v6/proj_qzonelogin/qzonelogin.css?20130306. Code 2153390067."
+console.error: "onResponse@resource://devtools/shared/base-loader.js -> resource://devtools/shared/DevToolsUtils.js:557:23\nonStopRequest@resource://gre/modules/NetUtil.jsm:126:17\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://qzonestyle.gtimg.cn/qzone_v6/proj_qzonelogin/qzonelogin.css?20130306. Code 2153390067."
+console.error: "Protocol error (unknownError): Failed to fetch https://qzonestyle.gtimg.cn/qzone_v6/proj_qzonelogin/qzonelogin.css?20130306. Code 2153390067."
+console.error: "Protocol error (unknownError): Failed to fetch https://qzonestyle.gtimg.cn/qzone_v6/proj_qzonelogin/qzonelogin.css?20130306. Code 2153390067."
+console.error: "stylesheets actor: fetch failed for https://qzonestyle.gtimg.cn/qzone_v6/proj_qzonelogin/qzonelogin.css?20130306, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://qzonestyle.gtimg.cn/qzone_v6/proj_qzonelogin/qzonelogin.css?20130306. Code 2153390067."
+console.error: "onResponse@resource://devtools/shared/base-loader.js -> resource://devtools/shared/DevToolsUtils.js:557:23\nonStopRequest@resource://gre/modules/NetUtil.jsm:126:17\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://qzonestyle.gtimg.cn/qzone_v6/proj_qzonelogin/qzonelogin.css?20130306. Code 2153390067."
+console.error: "Protocol error (unknownError): Failed to fetch https://qzonestyle.gtimg.cn/qzone_v6/proj_qzonelogin/qzonelogin.css?20130306. Code 2153390067."
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+[Child 11636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12816, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543483504242	Marionette	INFO	Stopped listening on port 61302
+urn statement
+JavaScript warning: https://qzonestyle.gtimg.cn/qzone/v8/ic/ic_feeds_monitor.js, line 7: unreachable code after return statement
+JavaScript error: https://qzonestyle.gtimg.cn/c/=/qzone/v8/engine/cpu.js,/qzone/v8/ic/qm.js,/qzone/v8/ic/tab_menu.js,/qzone/v8/ic/feeds.js,/qzone/v8/ic/tab_me_feed.js,/qzone/v8/toolbar/core.js?max_age=80206, line 450: TypeError: e is null
+JavaScript error: https://qzonestyle.gtimg.cn/c/=/qzone/v8/engine/cpu.js,/qzone/v8/ic/qm.js,/qzone/v8/ic/tab_menu.js,/qzone/v8/ic/feeds.js,/qzone/v8/ic/tab_me_feed.js,/qzone/v8/toolbar/core.js?max_age=80206, line 450: TypeError: e is null
+JavaScript error: https://qzonestyle.gtimg.cn/c/=/qzone/v8/core/seajs_config.js,/qzone/v8/engine/plugin-combo.js,/qzone/v8/core/ic.js?max_age=31536001&d=50108, line 26: TypeError: $j.qbRecommand is not a function
+JavaScript error: https://qzonestyle.gtimg.cn/c/=/qzone/v8/engine/cpu.js,/qzone/v8/ic/qm.js,/qzone/v8/ic/tab_menu.js,/qzone/v8/ic/feeds.js,/qzone/v8/ic/tab_me_feed.js,/qzone/v8/toolbar/core.js?max_age=80206, line 1734: TypeError: o is null
+JavaScript error: https://qzonestyle.gtimg.cn/c/=/qzone/v8/engine/cpu.js,/qzone/v8/ic/qm.js,/qzone/v8/ic/tab_menu.js,/qzone/v8/ic/feeds.js,/qzone/v8/ic/tab_me_feed.js,/qzone/v8/toolbar/core.js?max_age=80206, line 571: TypeError: M is null
+JavaScript error: https://qzonestyle.gtimg.cn/c/=/qzone/v8/engine/cpu.js,/qzone/v8/ic/qm.js,/qzone/v8/ic/tab_menu.js,/qzone/v8/ic/feeds.js,/qzone/v8/ic/tab_me_feed.js,/qzone/v8/toolbar/core.js?max_age=80206, line 1431: TypeError: popTips is null
+[Parent 11988, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11988, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543483196622	Marionette	INFO	Stopped listening on port 63888
+1543483257776	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.kJktxtvpP3iq"
+1543483260724	Marionette	INFO	Listening on port 64350
+1543483261040	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9596, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9596, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543483428339	Marionette	INFO	Stopped listening on port 64350
+.org/docs/errors.html#scripterror
+[Parent 11376, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11376, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 11376, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 11376, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543483374801	Marionette	INFO	Stopped listening on port 64582
+1543483426357	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.Xdjena87NvDi"
+1543483429763	Marionette	INFO	Listening on port 64953
+1543483430188	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 11228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11940, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build1543483473836	Marionette	INFO	Listening on port 65140
+1543483474326	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8528, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 4860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8528, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543483505652	Marionette	INFO	Stopped listening on port 65140
+1543483536716	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.HonpF1OwRYtC"
+1543483539664	Marionette	INFO	Listening on port 65415
+1543483539998	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 11872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12432, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12432, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1543483591171	Marionette	INFO	Stopped listening on port 65415
+1543483606888	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.s4gKX4nmnzqr"
+1543483609673	Marionette	INFO	Listening on port 49328
+1543483610126	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build[Parent 12316, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+console.error: "stylesheets actor: fetch failed for https://qzonestyle.gtimg.cn/qzone_v6/proj_qzonelogin/qzonelogin.css?20130306, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://qzonestyle.gtimg.cn/qzone_v6/proj_qzonelogin/qzonelogin.css?20130306. Code 2153390067."
+console.error: "onResponse@resource://devtools/shared/base-loader.js -> resource://devtools/shared/DevToolsUtils.js:557:23\nonStopRequest@resource://gre/modules/NetUtil.jsm:126:17\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://qzonestyle.gtimg.cn/qzone_v6/proj_qzonelogin/qzonelogin.css?20130306. Code 2153390067."
+console.error: "Protocol error (unknownError): Failed to fetch https://qzonestyle.gtimg.cn/qzone_v6/proj_qzonelogin/qzonelogin.css?20130306. Code 2153390067."
+console.error: "Protocol error (unknownError): Failed to fetch https://qzonestyle.gtimg.cn/qzone_v6/proj_qzonelogin/qzonelogin.css?20130306. Code 2153390067."
+console.error: "stylesheets actor: fetch failed for https://qzonestyle.gtimg.cn/qzone_v6/proj_qzonelogin/qzonelogin.css?20130306, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://qzonestyle.gtimg.cn/qzone_v6/proj_qzonelogin/qzonelogin.css?20130306. Code 2153390067."
+console.error: "onResponse@resource://devtools/shared/base-loader.js -> resource://devtools/shared/DevToolsUtils.js:557:23\nonStopRequest@resource://gre/modules/NetUtil.jsm:126:17\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://qzonestyle.gtimg.cn/qzone_v6/proj_qzonelogin/qzonelogin.css?20130306. Code 2153390067."
+console.error: "Protocol error (unknownError): Failed to fetch https://qzonestyle.gtimg.cn/qzone_v6/proj_qzonelogin/qzonelogin.css?20130306. Code 2153390067."
+console.error: "Protocol error (unknownError): Failed to fetch https://qzonestyle.gtimg.cn/qzone_v6/proj_qzonelogin/qzonelogin.css?20130306. Code 2153390067."
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+[Child 13180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol err[Parent 9116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Parent 9116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543484420068	Marionette	INFO	Stopped listening on port 49841
+ WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12316, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543483702607	Marionette	INFO	Stopped listening on port 49447
+1543483901721	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.r9Umb1FrrtbZ"
+1543483904837	Marionette	INFO	Listening on port 50430
+1543483905049	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 8576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/buil1543484421815	Marionette	INFO	Listening on port 52250
+1543484422013	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 12964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8892, Gecko_IOThread] WARNING: pipe error: 109: file1543484472969	Marionette	INFO	Listening on port 52450
+1543484473414	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Child 9960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543484929775	Marionette	INFO	Stopped listening on port 52450
+ error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/[Child 2536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8840, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromiuconsole.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Parent 9340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543484927655	Marionette	INFO	Stopped listening on port 53600

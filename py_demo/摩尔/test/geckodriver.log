@@ -1,0 +1,1351 @@
+1543230858493	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.0UyB85Iv1FVn"
+1543230862109	Marionette	INFO	Listening on port 60085
+1543230862506	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Parent 8636, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8636, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Child 11736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8636, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8636, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1543231228295	Marionette	INFO	Stopped listening on port 60085
+s@resource://services-settings/remote-settings.js:721:13
+
+[Child 9972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543231228007	Marionette	INFO	Stopped listening on port 60516
+s\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.TMu7rLIPv4Bk"
+1543230972645	Marionette	INFO	Listening on port 60718
+1543230972868	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Child 12932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12328, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12328, Gecko_IOThrea[Child 12880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common1543231227744	Marionette	INFO	Stopped listening on port 60718
+ARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 13140, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13140, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1543231228275	Marionette	INFO	Stopped listening on port 60892
+rome/common/ipc_channel_win.cc, line 346
+[Child 13848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 632))
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1543231230290	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.MNUpFbIk51Ub"
+1543231234472	Marionette	INFO	Listening on port 61605
+1543231234702	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+[Child 9240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+JavaScript error: http:1543231259159	Marionette	INFO	Stopped listening on port 61605
+ed
+[Child 12412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13900, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1543231264063	Marionette	INFO	Stopped listening on port 61766
+1543231538830	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.uQyAk2y6Od5d"
+1543231541944	Marionette	INFO	Listening on port 62345
+1543231542120	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+[Child 12952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7664, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543231570504	Marionette	INFO	Stopped listening on port 62345
+46
+[Child 13936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8972, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 8972, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 8972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9236, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Child 14284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543231569349	Marionette	INFO	Stopped listening on port 62501
+1543231602271	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.SG1tMO6xKG0u"
+1543231605215	Marionette	INFO	Listening on port 62715
+1543231605554	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+[Child 13720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13640, Chrome_ChildTh[Parent 12976, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_c[Parent 11380, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543231749758	Marionette	INFO	Stopped listening on port 62715
+ARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12976, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543231749945	Marionette	INFO	Stopped listening on port 62875
+ Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 14244, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 14244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14244, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1543231749972	Marionette	INFO	Stopped listening on port 63196
+1543231769559	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.wJySazGq92yN"
+1543231772965	Marionette	INFO	Listening on port 63409
+1543231773392	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543231819642	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.LLFODdAwg83O"
+1543231822660	Marionette	INFO	Listening on port 63630
+1543231822904	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+[Parent 8716, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8716, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543233581302	Marionette	INFO	Stopped listening on port 63630
+d/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 11404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13436, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543231956731	Marionette	INFO	Stopped listening on port 63948
+1543232112317	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.wXG2N4GnxSbs"
+1543232115625	Marionette	INFO	Listening on port 64421
+1543232115667	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543233579832	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.Sqd7wYAxx9KV"
+1543233584417	Marionette	INFO	Listening on port 50538
+1543233584446	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543233601895	Marionette	INFO	Stopped listening on port 50538
+[Child 12276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14184, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543233674334	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.nHkL8kApqXdH"
+1543233677673	Marionette	INFO	Listening on port 50858
+1543233677727	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+1543234950409	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.qx1SOQ0S68Ww"
+1543234953509	Marionette	INFO	Listening on port 53328
+1543234953774	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+1543235870584	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.ntdC8ctgWiwD"
+1543235874714	Marionette	INFO	Listening on port 55445
+1543235874946	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543235891959	Marionette	INFO	Stopped listening on port 55445
+[Child 14104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11860, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11860, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543235943368	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.5XLjTSgPDCYQ"
+1543235946722	Marionette	INFO	Listening on port 55723
+1543235947204	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543235965005	Marionette	INFO	Stopped listening on port 55723
+[Child 11024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9664, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9664, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543236529422	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.Xn60GebydxLf"
+1543236532347	Marionette	INFO	Listening on port 56841
+1543236532668	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+[Child 10832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10408, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543236816809	Marionette	INFO	Stopped listening on port 56841
+Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543236741223	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.Kg65a2FseohZ"
+1543236744465	Marionette	INFO	Listening on port 57514
+1543236744542	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+[Child 9592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 10452, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543236816807	Marionette	INFO	Stopped listening on port 57514
+1543236820591	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.llqLZ2gVkXSs"
+1543236823280	Marionette	INFO	Listening on port 57783
+1543236823334	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543236840929	Marionette	INFO	Stopped listening on port 57783
+[Child 13588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543236845948	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.V39mth5sJWOx"
+1543236848823	Marionette	INFO	Listening on port 57964
+1543236849287	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+[Parent 13264, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8464, Chrome_ChildThread]JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543236953251	Marionette	INFO	Stopped listening on port 58237
+[Child 14184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+rt 57964
+1543236958041	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.NL5TtOk9Pobo"
+1543236961323	Marionette	INFO	Listening on port 58435
+1543236961337	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543237095675	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.vJaFOIn92RV7"
+1543237098588	Marionette	INFO	Listening on port 58806
+1543237099052	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6117: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6117: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+[Child 11260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543237187367	Marionette	INFO	Stopped listening on port 58806
+1543237193790	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.GK6XueNaWjHA"
+1543237196915	Marionette	INFO	Listening on port 59132
+1543237197036	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543237258021	Marionette	INFO	Stopped listening on port 59132
+[Parent 11080, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 11080, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11080, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543237262971	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.JyIma3H7PUmM"
+1543237265939	Marionette	INFO	Listening on port 59402
+1543237266280	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+[Child 8324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543237341832	Marionette	INFO	Stopped listening on port 59402
+: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 10572, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543237340491	Marionette	INFO	Stopped listening on port 59600
+1543237358592	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.pfFzV3x4V3Jc"
+1543237361590	Marionette	INFO	Listening on port 59866
+1543237361872	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+1543237434083	Marionette	INFO	Stopped listening on port 59866
+[Child 13320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11084, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543237438769	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.PE9apwbNs4Ca"
+1543237441488	Marionette	INFO	Listening on port 60179
+1543237441523	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+[Child 10444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13032, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 13032, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543237467825	Marionette	INFO	Stopped listening on port 60179
+1543237508047	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.0EJaRPZ41r6M"
+1543237511225	Marionette	INFO	Listening on port 60468
+1543237511437	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543237528616	Marionette	INFO	Stopped listening on port 60468
+[Parent 10152, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10152, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1543237533560	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.1O6sPX5W6XCe"
+1543237536479	Marionette	INFO	Listening on port 60679
+1543237536819	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 2212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 10812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543237561190	Marionette	INFO	Stopped listening on port 60679
+1543237666122	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.B8y3ZYFop4OF"
+1543237669076	Marionette	INFO	Listening on port 61026
+1543237669383	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543237686185	Marionette	INFO	Stopped listening on port 61026
+[Child 11720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11396, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543237690993	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.RzDOgLCsYCqV"
+1543237694104	Marionette	INFO	Listening on port 61210
+1543237694261	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Child 8424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543237806524	Marionette	INFO	Stopped listening on port 61210
+lRKWekmgftjx"
+1543237789634	Marionette	INFO	Listening on port 61510
+1543237789837	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 115: TypeError: this.openedPopup.closePopup is not a function
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 115: TypeError: this.openedPopup.closePopup is not a function
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 115: TypeError: this.openedPopup.closePopup is not a function
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 115: TypeError: this.openedPopup.closePopup is not a function
+[Child 13228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12120, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 12120, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12120, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1543237806638	Marionette	INFO	Stopped listening on port 61510
+1543237810473	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.pdkFq3YyoJsy"
+1543237813491	Marionette	INFO	Listening on port 61687
+1543237813815	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543237818148	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.OrRDLNduVUVE"
+1543237821371	Marionette	INFO	Listening on port 61721
+1543237821554	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+[Child 9884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 13284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543237841901	Marionette	INFO	Stopped listening on port 61721
+1543237927734	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.tzApkYAJfurd"
+1543237931677	Marionette	INFO	Listening on port 62019
+1543237932080	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+[Parent 13288, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13288, Gecko_IOThread] WJavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6110: ReferenceError: event is not defined
+[Child 13724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9768, Chrome_ChildThre1543238195514	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-pro[Child 8144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/1543238199062	Marionette	INFO	Listening on port 62943
+1543238199568	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Parent 9268, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9268, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543238531668	Marionette	INFO	Stopped listening on port 62943
+e.js, line 1: TypeError: e is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Parent 11732, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11732, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543238531043	Marionette	INFO	Stopped listening on port 63220
+/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10060, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543238380160	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.3pmz16jEkm6I"
+1543238382865	Marionette	INFO	Listening on port 63705
+1543238382924	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543238402081	Marionette	INFO	Stopped listening on port 63705
+[Child 13380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13480, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13480, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1543238406733	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.12cEUoIIz9GQ"
+1543238409492	Marionette	INFO	Listening on port 63874
+1543238409549	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543238426006	Marionette	INFO	Stopped listening on port 63874
+[Child 12892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543238430641	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.3sDKQG4XsddI"
+1543238433185	Marionette	INFO	Listening on port 64050
+1543238433396	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Parent 11192, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1543238460603	Marionette	INFO	Stopped listening on port 64050
+1543238520056	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.DlPRxe8F3alo"
+1543238523454	Marionette	INFO	Listening on port 64330
+1543238523552	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543238541911	Marionette	INFO	Stopped listening on port 64330
+[Child 11188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13700, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543238546722	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.2VLqzoYqfQx7"
+1543238549598	Marionette	INFO	Listening on port 64530
+1543238550041	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+1543238568647	Marionette	INFO	Stopped listening on port 64530
+[Child 8656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11300, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543238573694	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.C3lTkE0Syrg3"
+1543238576527	Marionette	INFO	Listening on port 64708
+1543238576965	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543238593935	Marionette	INFO	Stopped listening on port 64708
+[Child 10688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10100, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10100, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10100, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1543238598575	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.2d7uPwaP7HN6"
+1543238601289	Marionette	INFO	Listening on port 64875
+1543238601296	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+[Child 7268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12836, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7400, Chrome_ChildThread] 1543238837957	Marionette	INFO	Stopped listening on port 65340
+[Child 11140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543238842753	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.XfDd99CCJjMf"
+1543238845955	Marionette	INFO	Listening on port 49201
+1543238846107	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543238865755	Marionette	INFO	Stopped listening on port 49201
+[Child 13224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543238870532	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.w9yVcYdG3696"
+1543238873639	Marionette	INFO	Listening on port 49418
+1543238873915	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543238891143	Marionette	INFO	Stopped listening on port 49418
+[Child 9916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9968, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543238896029	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.veAWW4lccXuC"
+1543238899162	Marionette	INFO	Listening on port 49611
+1543238899326	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+1543238916311	Marionette	INFO	Stopped listening on port 49611
+[Child 14116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11876, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1543238921730	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.V0r4V2Cogyd4"
+1543238924740	Marionette	INFO	Listening on port 49792
+1543238925005	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+[Parent 13096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 10848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13096, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Parent 13096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543239146741	Marionette	INFO	Stopped listening on port 49792
+:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543239138142	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.ilHRFzsmcTFX"
+1543239140891	Marionette	INFO	Listening on port 50427
+1543239140933	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543239157788	Marionette	INFO	Stopped listening on port 50427
+[Child 9800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9112, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13896, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 13896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9112, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543239162702	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.rJtwyV5qnexV"
+1543239165713	Marionette	INFO	Listening on port 50606
+1543239165999	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543239184651	Marionette	INFO	Stopped listening on port 50606
+[Child 13136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543239190002	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.NLbhHgT0tFtS"
+1543239193464	Marionette	INFO	Listening on port 50791
+1543239193936	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543239211010	Marionette	INFO	Stopped listening on port 50791
+1543239215548	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.59hao32Rey7a"
+1543239218580	Marionette	INFO	Listening on port 50945
+1543239218782	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+[Child 13256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9716, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1543239321796	Marionette	INFO	Stopped listening on port 50945
+9303674	Marionette	INFO	Stopped listening on port 51108
+[Child 9348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10504, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10504, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543239308424	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.DfTrhA4k2oHm"
+1543239311428	Marionette	INFO	Listening on port 51258
+1543239311673	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+1543239326361	Marionette	INFO	Stopped listening on port 51258
+[Child 9324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9660, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9660, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1543239331103	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.4apkyHO0I8aH"
+1543239334367	Marionette	INFO	Listening on port 51401
+1543239334402	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+[Child 8884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 12504, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543239366423	Marionette	INFO	Stopped listening on port 51401
+1543239425180	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.t9kSrxCgJiKq"
+1543239428226	Marionette	INFO	Listening on port 51595
+1543239428440	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543239443932	Marionette	INFO	Stopped listening on port 51595
+[Child 11688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11564, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1543239448831	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.pJyKWH7zjJj2"
+1543239451834	Marionette	INFO	Listening on port 51735
+1543239452084	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543239466800	Marionette	INFO	Stopped listening on port 51735
+[Child 9472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13652, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 13652, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543239471550	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.cmgRYXW4lCub"
+1543239474422	Marionette	INFO	Listening on port 51885
+1543239474814	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543239491735	Marionette	INFO	Stopped listening on port 51885
+[Child 6352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9128, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9128, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543239496401	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.cHZwMnqtZIRS"
+1543239499555	Marionette	INFO	Listening on port 52034
+1543239499612	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543239514047	Marionette	INFO	Stopped listening on port 52034
+[Child 9256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11528, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11528, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543239518803	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.lk4T4fC8KsE8"
+1543239521727	Marionette	INFO	Listening on port 52171
+1543239522178	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+[Child 6368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 4000, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4000, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1543239643774	Marionette	INFO	Stopped listening on port 52171
+
+[Parent 8040, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Child 8740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543239615584	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.rpQMkPPah4yE"
+1543239618459	Marionette	INFO	Listening on port 52490
+1543239618467	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543239633144	Marionette	INFO	Stopped listening on port 52490
+[Child 11996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10500, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10500, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1543239637762	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.qthjzvSnGOcs"
+1543239640292	Marionette	INFO	Listening on port 52637
+1543239640564	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543239657030	Marionette	INFO	Stopped listening on port 52637
+[Child 6288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543239661592	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.K1PY9hv9HnVp"
+1543239664561	Marionette	INFO	Listening on port 52776
+1543239664872	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543239680315	Marionette	INFO	Stopped listening on port 52776
+[Child 10548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12940, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1543239685164	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.nvJ90wU5owna"
+1543239687904	Marionette	INFO	Listening on port 52920
+1543239687914	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+[Parent 12328, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12328, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12328, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543239707236	Marionette	INFO	Stopped listening on port 52920
+1543278907860	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.55SSRiJioKjR"
+[Child 7136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x720001,name=PScriptCache::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+[Child 7136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543278923276	Marionette	INFO	Listening on port 49427
+1543278923766	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543278946554	Marionette	INFO	Stopped listening on port 49427
+[Child 6524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2904, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Child 7204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2904, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543278951346	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.oTN7hFrIAuYK"
+1543278954616	Marionette	INFO	Listening on port 49588
+1543278954675	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543278970761	Marionette	INFO	Stopped listening on port 49588
+[Child 7980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7260, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543278975691	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.q6r4Ka84sy7t"
+1543278979051	Marionette	INFO	Listening on port 49725
+1543278979520	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543278997329	Marionette	INFO	Stopped listening on port 49725
+[Parent 5128, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5128, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1543279001944	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.AzvIHZX5tBSE"
+1543279004890	Marionette	INFO	Listening on port 49869
+1543279005224	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543279020749	Marionette	INFO	Stopped listening on port 49869
+[Child 7648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543279025844	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.fWvl3Mv5vb8d"
+1543279029199	Marionette	INFO	Listening on port 50010
+1543279029222	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+[Child 6524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7952, Chrome_ChildThreadJavaScript error: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+JavaScript error: http:[Child 6296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543279139158	Marionette	INFO	Stopped listening on port 50010
+or: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+1543279152391	Marionette	INFO	Stopped listening on port 50171
+[Child 6796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6292, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543279157738	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.YFIdm6OK4Keq"
+1543279160588	Marionette	INFO	Listening on port 50315
+1543279160988	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+JavaScript error: http://www.moore.ren/, line 6137: ReferenceError: event is not defined
+1543279179077	Marionette	INFO	Stopped listening on port 50315
+[Child 2912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 564, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 7288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543279185002	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.HV5cRPVv8LlK"
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1543279188487	Marionette	INFO	Listening on port 50489
+1543279188822	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543279207501	Marionette	INFO	Stopped listening on port 50489
+[Parent 8076, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543279212318	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.8GQKRamGu07T"
+1543279215284	Marionette	INFO	Listening on port 50636
+1543279215563	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543279232314	Marionette	INFO	Stopped listening on port 50636
+[Parent 4080, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4080, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4080, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543279237589	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.a6QcirB56WDd"
+1543279240549	Marionette	INFO	Listening on port 50777
+1543279240819	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543320420410	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.YNu91affgfrX"
+1543320429681	Marionette	INFO	Listening on port 59638
+1543320429901	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543320454943	Marionette	INFO	Stopped listening on port 59638
+[Child 4552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3616, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1543320459814	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.qubNOkCI4aFh"
+1543320462839	Marionette	INFO	Listening on port 59863
+1543320463045	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543320484320	Marionette	INFO	Stopped listening on port 59863
+[Child 4992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5624, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5624, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543320489265	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.aGjqOONYr5eo"
+1543320492158	Marionette	INFO	Listening on port 60031
+1543320492534	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543320512964	Marionette	INFO	Stopped listening on port 60031
+[Child 6220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9892, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9892, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543320517584	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.CrMSeaIZGEnv"
+1543320520493	Marionette	INFO	Listening on port 60195
+1543320520799	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543320541060	Marionette	INFO	Stopped listening on port 60195
+[Child 5632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6032, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543320545516	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.MDsew5z4H0Qf"
+1543320548856	Marionette	INFO	Listening on port 60354
+1543320549338	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543320569178	Marionette	INFO	Stopped listening on port 60354
+[Child 9188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8696, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8696, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1543320573785	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.EgKVVmWz89GZ"
+1543320576974	Marionette	INFO	Listening on port 60521
+1543320577114	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+[Child 9808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7436, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 7436, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543320614222	Marionette	INFO	Stopped listening on port 60521
+1543320641519	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.kQZnDLHkm3L6"
+1543320644814	Marionette	INFO	Listening on port 60729
+1543320644907	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543320665379	Marionette	INFO	Stopped listening on port 60729
+[Child 7300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543320694408	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.tNuZGOHLWeSh"
+1543320697455	Marionette	INFO	Listening on port 60949
+1543320697694	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543320717526	Marionette	INFO	Stopped listening on port 60949
+[Child 5800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4124, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543320722421	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.Nly41r9hfX30"
+1543320725469	Marionette	INFO	Listening on port 61119
+1543320725705	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543320744008	Marionette	INFO	Stopped listening on port 61119
+[Child 6892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543320748641	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.RKIBW1D6e51P"
+1543320751770	Marionette	INFO	Listening on port 61286
+1543320751866	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543320770660	Marionette	INFO	Stopped listening on port 61286
+[Child 7252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3776, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3776, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543320775386	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.63v7wjpUVWII"
+1543320778281	Marionette	INFO	Listening on port 61448
+1543320778625	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+1543320795661	Marionette	INFO	Stopped listening on port 61448
+[Child 4216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6420, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Child 1840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543320800307	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bigbaby\\AppData\\Local\\Temp\\rust_mozprofile.WPvNfGSUfBxW"
+1543320803301	Marionette	INFO	Listening on port 61609
+1543320803542	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Parent 5836, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5836, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543323107649	Marionette	INFO	Stopped listening on port 61609
